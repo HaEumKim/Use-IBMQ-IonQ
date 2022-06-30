@@ -1,3 +1,3 @@
-# RealQuantumComputingDeviceWork
+# Use-IBMQ-IonQ
 
-I upload what I did with real quantum computer.
+I upload what I did using real quantum computer provided by IBMQ and IonQ.
